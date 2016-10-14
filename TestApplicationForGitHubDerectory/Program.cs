@@ -8,7 +8,15 @@ namespace TestApplicationForGitHubDerectory
 {
     class Program
     {
-        static void Main(string[] args)
+        class MyClass
+        {
+            public void TestMethod()
+            {
+
+            }
+        }
+
+        static void Main()
         {
         }
     }
